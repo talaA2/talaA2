@@ -10,6 +10,7 @@ I like turning messy, real-world data into models and results that can be truste
 | [**Flu Vaccine Sentiment Analysis**](https://github.com/talaA2/IT362-DataScienceProject) | NLP pipeline that collects YouTube, news and FDA data and classifies public sentiment toward flu vaccines; fine-tuned BERT beat the classical models (Macro F1 0.713 vs 0.669) | Python · scikit-learn · PyTorch · BERT |
 | [**Telecom Customer Churn Prediction**](https://github.com/najla-alhusaini/it326-telco-churn) | Predicts which customers will leave, with imbalance-aware evaluation that raised churn recall from 51% to 74% | Python · scikit-learn · pandas |
 | [**Clean Touch**](https://github.com/yaraaz5/CleanTouch) · [live demo](https://yaraaz5.github.io/CleanTouch/) | Responsive front-end website for a laundry business, with booking forms and a provider dashboard | HTML · CSS · JavaScript |
+| [**Rasheed**](https://github.com/talaA2/Rasheed-Reporting-System) | Full-stack system for reporting water and electricity issues, with role-based dashboards, notifications and rewards; security-hardened against SQL injection, unsafe uploads and XSS | PHP · MySQL · JavaScript |
 
 ### Tools I use
 
